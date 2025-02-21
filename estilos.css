@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+}
+.arriba {
+    display: inline;
+    text-align: center;
+}
+.letras {
+    font-size: 25px;
+    font-family: sans-serif;
+display: inline;
+}
+.letras2 {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+.borde {
+    border-right: 3px solid black;
+}
+.education{
+    background-color: white;
+    text-align: left;
+    margin-right: 950px;
+}
+.education2{
+    background-color: white;
+    text-align: left;
+    margin-left: 950px;
+}
+.borde2{
+    border-bottom: 3px solid black;
+}
